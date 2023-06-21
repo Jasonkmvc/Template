@@ -1,0 +1,56 @@
+- Product Category:
+A)	Infrastructure Track
+This track is for providing basic services for applications, such as UTXO services, Ordinal services. 
+It is a business-oriented track that serves applications or enterprises rather than end-users.
+A)  Example:
+A1) Cross-Chain Explore Ex: Enable BRC20/Ordinals Txns & MVC Txns
+A2) Bridge between BTC & MVC, MVC & Doge
+A3)	Decentralized bridge between BTC & MVC
+A4) Oracle – UTXO Model
+A5)	SW address & Taproot address & Legacy address conversion or compatible work
+
+B)	BTCfi Application Track
+B) Example:
+B1)	BTC & Ordinals/BRC20 & MVC DEX
+B2) Chrome Wallet Integration – (BTC & MVC)
+B3) Wallet Connect [BVM UTXO version]
+B4) Cold Wallet Integration or Development
+B5)	Multi- signature wallet – Asset management
+B6)	Twitter third-party wallet plugin Integration
+ 
+C)	SDK & Tools & Launchpad Track
+This track Facilitate the development of SDKs and tools which is crucial for the development
+of MVC especially in its early stages. 
+C) Example:
+C1) Introduce Script Library for programmer onboard MVC chain.
+C2) MVC & Ordinals SDK
+C3) Project launchpad SDK 
+
+D)	Layer 1 Smart contract track
+This track is for applications that are related to smart contracts and developed using Meta Contract on top of the MVC blockchain.
+D) Example:
+D1) Stable Coin
+D2) Lending
+D3) BVM protocol LSD Infrastructure. Decentralized Staking liquidity protocol Ex: https://lido.fi/  
+D4) Socialfi 
+D5) On Chain Storge function integration. Ex: (Enable Music, video on-chain)
+D6)	Peer Game
+D7)	Telegram / Wechat bot – Ex: A) Enable tipping function & B) Cloud mining function for MVC network token & Space & MetaCoin & BRC20 & Ordinal 
+D8)	NFT AMM DEX - Make everything NFT [Ex: Ticket] and accessible for daily lives.
+D9) Signature through smart contract - Space Holder voting
+
+E)	Specific Job or Feature Market Development
+E1) Enable socialfi message interacted with Twitter, Wechat and Telegram.
+E2) Add support for sending and receiving Dogecoin in Metalet Wallet.
+E3) Add support for sending and receiving Kaspa in Metalet Wallet.
+E4) Add support for Bitcoin / Dogecoin payment in MVC network.
+
+F)	Web 3 Business Integration Track: 
+This track focus on assistance to make Bitcoin Micro-Payment Friendly & Bitcoin E-Commerce Friendly.
+F) Example:
+F1) E-Commerce: Music, Movie & Pay TV Show & Book & Online-Course Integration
+F2) POS & Mobile Terminals – Let more Merchant accept MVC & Bitcoin through MVC network. Make use of MVC instant transaction technology 
+F3) Decentralized Instagram & Youtube (Monetize Videos)
+
+Remarks1: Above is just example, feel free to specify your specific product.
+Remarks2: Adopt MetaID protocol will further enjoy bonus from MetaID team. 
